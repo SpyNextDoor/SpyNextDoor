@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jean Marie Ngabonziza, welcome to my GitHub page. 
-🎓 Junior majoring in Computer Science and Engineering at Bucknell. 
-💾 👀 I am an aspiring software engineer and full-stack developer.
+🎓 Bucknell graduate with a BS i Computer Science and Engineering
+💾 👀 I am an aspiring data Scientist/Machine Learning Engineer.
 
 😄 Pronouns: He/Him
 
@@ -31,7 +31,7 @@ ranging from data representation to Unix system programming.
 - JavaScript: Basic, intro to JavaScript for web development. 
 
 ## 📫 How to reach me:
-- Email: jnn004@bucknell.edu
+- Email: nisingizwe.jeanmarie@gmail.com
 - LinkedIn: www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza-661899224
 
 ## ⚡ Fun fact:
