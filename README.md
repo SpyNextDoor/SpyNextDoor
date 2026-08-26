@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Jean Marie Ngabonziza, welcome to my GitHub page. 
-🎓 Bucknell graduate with a BS i Computer Science and Engineering
-💾 👀 I am an aspiring data Scientist/Machine Learning Engineer.
+🎓 Bucknell graduate with a BS in Computer Science and Engineering
+💾 👀 I am an aspiring data analyst/data engineer Engineer.
 
 😄 Pronouns: He/Him
 
-## Project:
+## Projects:
 ### feelBit App:
 feelBit App is a small app that my team and I have developed as for our final project in the Software Engineering Design class. 
 The user is allowed to track their mood changes over time through journaling and statistical display of their mood. 
@@ -17,9 +17,8 @@ full project at: https://github.com/SpyNextDoor/feelBit-App.git
 
 
 ## What I am learning
-Currently, I am brushing dust on my front-end development with React and I hope to start learning
-some backend tools too. Next semester, I will take a Computer Systems class where I will learn topics
-ranging from data representation to Unix system programming. 
+One thing that came to my attention a bit late was that college does not teach all the tech stacks that companies are looking for. 
+So, after college, I learned SQL, Tableau and I will start Fundamentals of AI Engineering with CodePath.
 
 ## ⚙️ Toolkit:
 ### 💻 Programming Languages
@@ -36,6 +35,10 @@ ranging from data representation to Unix system programming.
 
 ## ⚡ Fun fact:
 I probably have headphones on right now. 
+
+## More projects:
+For more projects that I have worked on, you can check my portfolio. 
+https://www.jeanmarieportfolio.com/
 
 <!---
 SpyNextDoor/SpyNextDoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
