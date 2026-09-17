@@ -1,8 +1,24 @@
 ## 👋 Hi, I’m Jean Marie Ngabonziza, welcome to my GitHub page. 
-🎓 Bucknell graduate with a BS in Computer Science and Engineering
+
+## About Me
+- Location: Portage, MI
+- Education 🎓: 
+   - Bucknell University
+      - Degree: Computer Science and Engineering
+      - GPA: 3.96/4
 💾 👀 I am an aspiring data analyst/data engineer Engineer.
 
 😄 Pronouns: He/Him
+
+## What I am learning
+One thing that came to my attention a bit late was that college does not teach all the tech stacks that companies are looking for. 
+So, after college, I learned SQL, Tableau and I will start Fundamentals of AI Engineering with CodePath.
+
+## ⚙️ Toolkit:
+### 💻 Programming Languages
+- Python, R, SQL, R, HTML, CSS, Javascript, React, Elixir
+### Frameworks
+- Phoenix Framework (LiveView), Tableau
 
 ## Projects:
 ### feelBit App:
@@ -14,20 +30,6 @@ The app was built using SceneBuilder for our UI and Java as our backend.
 Java, SceneBuilder. 
 
 full project at: https://github.com/SpyNextDoor/feelBit-App.git
-
-
-## What I am learning
-One thing that came to my attention a bit late was that college does not teach all the tech stacks that companies are looking for. 
-So, after college, I learned SQL, Tableau and I will start Fundamentals of AI Engineering with CodePath.
-
-## ⚙️ Toolkit:
-### 💻 Programming Languages
-
-- Python: Intermediate, used for implementing basic algorithms, and leetcode practice.
-- Java: Intermediate, used for object-oriented programming. 
-- HTML: Intermediate, used for front-end development of web applications.
-- React: Basic to Intermediate, used for developing a responsive personal portfolio. 
-- JavaScript: Basic, intro to JavaScript for web development. 
 
 ## More projects:
 For more projects that I have worked on, you can check my portfolio. 
