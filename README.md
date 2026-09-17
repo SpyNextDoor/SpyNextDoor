@@ -29,21 +29,27 @@ So, after college, I learned SQL, Tableau and I will start Fundamentals of AI En
 - React: Basic to Intermediate, used for developing a responsive personal portfolio. 
 - JavaScript: Basic, intro to JavaScript for web development. 
 
-## 📫 How to reach me:
-- Email: nisingizwe.jeanmarie@gmail.com
-- LinkedIn: www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza-661899224
-
-## ⚡ Fun fact:
-I probably have headphones on right now. 
-
 ## More projects:
 For more projects that I have worked on, you can check my portfolio. 
 https://www.jeanmarieportfolio.com/
 
 ## Leadership and Civic Engagement
 ### Housing and Residential Life
-**Residential Advisor**(Spring 2024 - Spring 2026)
-- 
+#### Residential Advisor(Spring 2024 - Spring 2026)
+- Planned and delivered 10+ community-building programs for 80 residents, focused on connection, inclusion, and social
+justice.
+- Connected residents to campus resources including student health services, counseling, and the teaching center,
+improving access to support.
+- Mediated roommate conflicts using active listening and conflict-resolution strategies, maintaining a positive residential
+climate.
+
+### Undergraduate Executive Intern 
+#### Office of Equity & Inclusive Excellence (EIE)
+- Organized Bucknell's International Festival, Equity Symposium, and MLK Week, coordinating logistics for over 500
+attendees.
+- Co-created the "Together on Purpose" retreat in partnership with the Career Center and Religious and Spiritual Life.
+- Launched an initiative connecting student organizations across the EIE umbrella to strengthen cross-organization
+collaboration.
 
 ## Technical Certificates
 - SQL For Data Analytics: https://analystbuilder.com/achievements/verify/5IAHDGQEUH?r=e6LbJdIzzVmODuH9pmykv3E0Q
