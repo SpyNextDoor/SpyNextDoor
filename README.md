@@ -40,6 +40,25 @@ I probably have headphones on right now.
 For more projects that I have worked on, you can check my portfolio. 
 https://www.jeanmarieportfolio.com/
 
+## Leadership and Civic Engagement
+### Housing and Residential Life
+**Residential Advisor**(Spring 2024 - Spring 2026)
+- 
+
+## Technical Certificates
+- SQL For Data Analytics: https://analystbuilder.com/achievements/verify/5IAHDGQEUH?r=e6LbJdIzzVmODuH9pmykv3E0Q
+- Social Behaviour Program (CITI Program): https://www.citiprogram.org/verify/?w61a359e9-7e8e-4912-a821-718fd96c199b-62469785
+
+## Awards and Honors
+- Bison Awards for Excellence in Co-curricular Activities
+- Balakian Summer Art Experience Grant
+- Arts & Creativity Grant
+
+## Let's Connect
+gmail: nisingizwe.jeanmarie@gmail.com
+linkedin: https://www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza/
+instagram: https://www.instagram.com/juma_102/
+
 <!---
 SpyNextDoor/SpyNextDoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
