@@ -61,9 +61,9 @@ collaboration.
 - Arts & Creativity Grant
 
 ## Let's Connect
-gmail: nisingizwe.jeanmarie@gmail.com
-linkedin: https://www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza/
-instagram: https://www.instagram.com/juma_102/
+- gmail: nisingizwe.jeanmarie@gmail.com
+- linkedin: https://www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza/
+- instagram: https://www.instagram.com/juma_102/
 
 <!---
 SpyNextDoor/SpyNextDoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
